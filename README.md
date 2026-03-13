@@ -5,7 +5,7 @@ Atualmente estou no 5º semestre de Ciência da Computação pela FEI, com foco 
 Ao longo da graduação, desenvolvi projetos práticos envolvendo interfaces em React integradas ao banco de dados Firebase, aplicações em Java (Swing/JDBC) utilizando arquitetura MVC e banco de dados PostgreSQL, além de projetos em C e Python, incluindo o uso de bibliotecas como NumPy e Pandas.
 
 <details>
-  <summary>Ferramentas e Tecnologias 💫</summary>
+  <summary>Ferramentas e Tecnologias ⚙️</summary>
   <br>
 
   <b>Linguagens</b><br>

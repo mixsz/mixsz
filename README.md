@@ -1,4 +1,4 @@
-<img src="assets/" alt="ola, sou o Danilo">
+<img src="assets/hero.svg" alt="ola, sou o Danilo">
 
 Atualmente estou no 5º semestre de Ciência da Computação pela FEI, com foco em desenvolvimento de software. Cada vez mais aprofundando meus conhecimentos em linguagens como Java, Python e C, além de tecnologias como React.
 
@@ -42,9 +42,9 @@ Ao longo da graduação, desenvolvi projetos práticos envolvendo interfaces em 
 <p align="center">
   <i>Fique à vontade para entrar em contato!</i><br><br>
   <a href="https://www.linkedin.com/in/danilow">
-    <img height="45" src="assets/">  
+    <img height="45" src="assets/linkedin.svg" alt="linkedin">  
   </a>
 </p>
 
 
-<img src="assets/" alt="bottom">
+<img src="assets/bottom.svg" alt="bottom">

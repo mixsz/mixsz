@@ -1,8 +1,8 @@
 <img src="assets/hero.svg" alt="ola, sou o Danilo">
 
-Atualmente estou no 5º semestre de Ciência da Computação pela FEI, com foco em desenvolvimento de software. Cada vez mais aprofundando meus conhecimentos em linguagens como Java, Python e C, além de tecnologias como React.
+Atualmente estou no 6º semestre de Ciência da Computação pela FEI, com foco em desenvolvimento de software. Tenho aprofundado meus conhecimentos em linguagens como Java, Python e C, além de tecnologias como React e Spring Boot.
 
-Ao longo da graduação, desenvolvi projetos práticos envolvendo interfaces em React integradas ao banco de dados Firebase, aplicações em Java (Swing/JDBC) utilizando arquitetura MVC e banco de dados PostgreSQL, além de projetos em C e Python, incluindo o uso de bibliotecas como NumPy e Pandas.
+Ao longo da graduação, desenvolvi projetos práticos como um compilador para uma linguagem inventada (feito em Java), interfaces em React com armazenamento local via AsyncStorage, uma aplicação CRUD em Java (Swing/JDBC) com arquitetura MVC e PostgreSQL, um sistema embarcado em Arduino (IOT), além de projetos em C e Python com bibliotecas como NumPy e Pandas.
 
 <details>
   <summary>Ferramentas e Tecnologias ⚙️</summary>
@@ -17,7 +17,7 @@ Ao longo da graduação, desenvolvi projetos práticos envolvendo interfaces em 
 
 
   <b>Back-end</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring" />
 
 
   <b>Banco de Dados</b><br>
@@ -29,10 +29,10 @@ Ao longo da graduação, desenvolvi projetos práticos envolvendo interfaces em 
 
 
   <b>Ferramentas</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,arduino" />
 
   <b>IDEs</b><br>
-  <img src="https://skillicons.dev/icons?i=vscode"/>    <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea"/>    <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" />
   
 
 </details>

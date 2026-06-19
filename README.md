@@ -9,7 +9,7 @@ Ao longo da graduação, desenvolvi projetos práticos como um compilador para u
   <br>
 
   <b>Linguagens</b><br>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,r" />
 
 
   <b>Front-end</b><br>

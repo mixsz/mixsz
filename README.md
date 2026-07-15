@@ -2,7 +2,7 @@
 
 Atualmente estou no 6º semestre de Ciência da Computação pela FEI, com foco em desenvolvimento de software. Tenho experiência com linguagens como Java, Python, C e JavaScript, e venho trabalhando com tecnologias como React, Spring Boot e PostgreSQL.
 
-Ao longo da graduação, desenvolvi diversos projetos acadêmicos nas áreas de desenvolvimento de software, aplicações web e mobile, análise de dados, IoT, entre outras. Alguns desses projetos incluem um compilador para uma linguagem criada por mim, um aplicativo mobile em React Native, um sistema de gerenciamento de músicas em Java e um projeto de análise de dados em Python.
+Ao longo da graduação, desenvolvi diversos projetos acadêmicos nas áreas de desenvolvimento de software, aplicações web e mobile, análise de dados, IoT, entre outras. Alguns desses projetos incluem um compilador para uma linguagem criada por mim, um aplicativo mobile em React Native, um sistema de gerenciamento de músicas em Java e um projeto de análise de dados utilizando bibliotecas Pandas e NumPy.
 
 Também busco aprimorar meus conhecimentos por meio de estudos pessoais e do desenvolvimento de projetos próprios, como uma API REST em Spring Boot com autenticação JWT, testes automatizados e conteinerização com Docker.
 

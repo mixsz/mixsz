@@ -1,8 +1,10 @@
 <img src="assets/hero.svg" alt="ola, sou o Danilo">
 
-Atualmente estou no 6º semestre de Ciência da Computação pela FEI, com foco em desenvolvimento de software. Tenho aprofundado meus conhecimentos em linguagens como Java, Python e C, além de tecnologias como React e Spring Boot.
+Atualmente estou no 6º semestre de Ciência da Computação pela FEI, com foco em desenvolvimento de software. Tenho experiência com linguagens como Java, Python, C e JavaScript, e venho trabalhando com tecnologias como React, Spring Boot e PostgreSQL.
 
-Ao longo da graduação, desenvolvi projetos práticos como um compilador para uma linguagem inventada (feito em Java), interfaces em React com armazenamento local via AsyncStorage, uma aplicação CRUD em Java (Swing/JDBC) com arquitetura MVC e PostgreSQL, um sistema embarcado em Arduino (IOT), além de projetos em C e Python com bibliotecas como NumPy e Pandas.
+Ao longo da graduação, desenvolvi diversos projetos acadêmicos nas áreas de desenvolvimento de software, aplicações web e mobile, análise de dados, IoT, entre outras. Alguns desses projetos incluem um compilador para uma linguagem criada por mim, um aplicativo mobile em React Native, um sistema de gerenciamento de músicas em Java e um projeto de análise de dados em Python.
+
+Também busco aprimorar meus conhecimentos por meio de estudos pessoais e do desenvolvimento de projetos próprios, como uma API REST em Spring Boot com autenticação JWT, testes automatizados e conteinerização com Docker.
 
 <details>
   <summary>Ferramentas e Tecnologias ⚙️</summary>
@@ -29,7 +31,7 @@ Ao longo da graduação, desenvolvi projetos práticos como um compilador para u
 
 
   <b>Ferramentas</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,arduino" />
+  <img src="https://skillicons.dev/icons?i=arduino,git,github,figma,postman,docker" />
 
   <b>IDEs</b><br>
   <img src="https://skillicons.dev/icons?i=vscode,idea"/>    <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" />
